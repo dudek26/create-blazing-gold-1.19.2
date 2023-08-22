@@ -1,5 +1,6 @@
 package net.dudko.createblazinggold;
 
+import net.dudko.createblazinggold.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,5 +12,6 @@ public class CreateBlazingGold implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItems.registerModItems();
 	}
 }
