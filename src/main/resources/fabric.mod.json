@@ -3,7 +3,7 @@
 	"id": "create-blazing-gold",
 	"version": "${version}",
 	"name": "Create: Blazing Gold",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Nether-related automation with Create Mod.",
 	"authors": [
 		"dudko"
 	],
