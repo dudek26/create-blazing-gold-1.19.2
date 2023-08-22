@@ -13,6 +13,7 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
 
+
     private static Item registerItem (String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(CreateBlazingGold.MOD_ID, name), item);
     }

@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "create-blazing-gold",
+	"id": "createblazinggold",
 	"version": "${version}",
 	"name": "Create: Blazing Gold",
 	"description": "Nether-related automation with Create Mod.",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/create-blazing-gold/icon.png",
+	"icon": "assets/createblazinggold/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
