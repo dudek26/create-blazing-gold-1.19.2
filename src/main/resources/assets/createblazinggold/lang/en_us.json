@@ -1,3 +1,7 @@
 {
-  "item.createblazinggold.nethergold_ingot": "Nethergold Ingot"
+  "item.createblazinggold.nethergold_ingot": "Nethergold Ingot",
+  "item.createblazinggold.magmagold_ingot": "Magmagold Ingot",
+  "item.createblazinggold.burning_gold_ingot": "Burning Gold Ingot",
+
+  "itemGroup.createblazinggold.createblazinggold": "Create: Blazing Gold"
 }
