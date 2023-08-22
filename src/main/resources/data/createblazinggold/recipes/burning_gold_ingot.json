@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createblazinggold:nethergold_ingot"
+  },
+  "transitionalItem": {
+    "item": "createblazinggold:incomplete_burning_gold_ingot"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 40500
+        }
+      ],
+      "results": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "createblazinggold:incomplete_burning_gold_ingot"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createblazinggold:burning_gold_ingot",
+      "chance": 120.0
+    },
+    {
+      "item": "createblazinggold:magmagold_ingot",
+      "chance": 30.0
+    }
+  ],
+  "loops": 5
+}

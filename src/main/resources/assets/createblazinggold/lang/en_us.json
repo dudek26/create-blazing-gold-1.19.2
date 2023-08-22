@@ -2,6 +2,7 @@
   "item.createblazinggold.nethergold_ingot": "Nethergold Ingot",
   "item.createblazinggold.magmagold_ingot": "Magmagold Ingot",
   "item.createblazinggold.burning_gold_ingot": "Burning Gold Ingot",
+  "item.createblazinggold.incomplete_burning_gold_ingot": "Incomplete Burning Gold Ingot",
   "item.createblazinggold.burning_gold_sheet": "Burning Gold Sheet",
 
   "itemGroup.createblazinggold.createblazinggold": "Create: Blazing Gold"
